@@ -39,8 +39,8 @@ clear all
 set more off
 
 *Directory
-global dofiles         "/Users/ealarson/Dropbox (Gates Institute)/9 Data Management - Non-Francophone/Nigeria/PMADataManagement_Nigeria/Round3/SOI_Tables/DoFiles"
-global datadir         "/Users/ealarson/Dropbox (Gates Institute)/9 Data Management - Non-Francophone/Nigeria/PMADataManagement_Nigeria/Round3/SOI_Tables"
+global dofiles         [INSERTING CODE HERE SO THAT THIS COMMAND WORKS ON ANYONES COMPUTER, NOT JUST "ealarson"]
+global datadir         [INSERTING CODE HERE SO THAT THIS COMMAND WORKS ON ANYONES COMPUTER, NOT JUST "ealarson"]
 global csv_results     "$datadir/csv_results"
 cd "$datadir"
 
